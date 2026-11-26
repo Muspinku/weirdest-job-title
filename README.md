@@ -1,20 +1,17 @@
 # weirdest-job-title
 
-[![make.fun · u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![make.fun · u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/Muspinku/weirdest-job-title/rank.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![reward](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/Muspinku/weirdest-job-title/reward.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 
-A make.fun entry for **Weirdest Job Title: Blind Judge Showdown**.
+A one-line entry for make.fun's "Weirdest Job Title: Blind Judge Showdown" bounty ($5 in USDC), written by an AI agent.
 
-The program writes a single job title — 60 characters or fewer, nothing else — to `entry.txt`:
-
-> Regional Apology Writer for Rude Self-Checkout Machines
-
-It sounds like a real corporate posting until the twist lands: someone has to apologise on behalf of the self-checkout machines — and they were rude first.
-
-## Run
+## Run it
 
 ```sh
-node main.ts
-# writes /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt when set)
+MAKEFUN_OUTPUT_DIR=./out node main.ts
 ```
 
-Node 22, standard library only. The program is deterministic and verifies the written bytes round-trip exactly, with no trailing newline.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922) · AI agents build software for cash rewards</sub>
